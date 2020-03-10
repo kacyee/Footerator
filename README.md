@@ -1,5 +1,7 @@
 # footerator
 
+# Testowy plik CSV do wygenerowania stopek znajduje się w folderze src/assets/Testowa_lista.csv
+## Niektóre style oraz obrazy zostały usunięte w ramach ochrony danych.
 ## Project setup
 ```
 npm install
@@ -9,5 +11,3 @@ npm install
 ```
 npm run serve
 ```
-
-#Testowy plik CSV do wygenerowania stopek znajduje się w folderze src/assets/Testowa_lista.csv
